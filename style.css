@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://unsplash.com/photos/5J1bHRX1fNw/download?force=tru);
+}
+h1{
+    color:orange;
+    font-family: 'teko';
+    font-size: 75px;
+    
+  display: inline;
+}
+.img1{
+    height: 60px;
+    width: 60px;
+    display: inline;
+}
+.heading{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.img2{
+    height: 306px;
+    width: 420px;
+    display: inline;
+    margin-right: 60px;
+    
+}
+.img3{
+    height: 306px;
+    width: 420px;
+    display: inline;
+    
+}
+.row1{
+    margin-left: 300px;
+}
+.img4{
+    width: 579px;
+    height: 306px;
+    display: inline;
+    margin-right: 60px;
+   
+}
+.img5{
+    width: 456px;
+    height: 306px;
+    display: inline;
+    
+}
+.row2{
+    margin-left: 150px;
+}
+.img6{
+    width:490px;
+    height: 306px;
+    margin-left: 500px;
+    
+}
+.b{
+    transition: transform 0.5s;
+}
+.b:hover{
+    transform: scale(1.5);
+}
+.c{
+    border: white;
+    border-width: 3px;
+    border-style: solid;
+}
+
+
